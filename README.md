@@ -15,5 +15,12 @@ A simple console based java program with database connectivity which authenticat
 ```bash
 java -jar soham_Authenticator.jar
 ```
+## 🚫Errors  
+![image](https://github.com/user-attachments/assets/4ca31784-4380-46a2-9a05-272b62b9d8fe)  
+
+If you come across this error while accessing the program keep in mind that this error shows when my server is not running !!  
+Not because of any compile-time error...
+So, be patient untill I start my server back.
+
 
   
