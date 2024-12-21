@@ -4,6 +4,10 @@ A simple console based java program with database connectivity which authenticat
 ![image](https://github.com/user-attachments/assets/19fdae73-f3fe-40d3-b2d7-483d6c5d3060)
 
 
+## ⬇️ HOW TO DOWNLOAD RUNNABLE FILE
+1.Go to Releases section   
+2.There you will find the latest version .jar file  
+3.Just Download it
 ## ⚠️HOW TO EXECUTE JAR FILE
 1.Go to cmd  
 2.Change directory to where .jar file is located  
