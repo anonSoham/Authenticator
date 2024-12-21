@@ -1,5 +1,6 @@
 # Authenticator
 A simple console based java program with database connectivity which authenticates the user login.
+
 ![image](https://github.com/user-attachments/assets/19fdae73-f3fe-40d3-b2d7-483d6c5d3060)
 
 
